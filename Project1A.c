@@ -1,5 +1,5 @@
 /*
-Authors:	Zaira E Cruz , Luis Rangel
+Authors:	Luis Rangel, Zaira E Cruz
 Description:	Project1A.c will create two child processes A1 and A2. These two process will be
 		executed by a child process B1 inside Project1B.c. 
 Title: 		CSCE 4600 Project#1
